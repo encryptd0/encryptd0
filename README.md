@@ -20,11 +20,19 @@ Here are some ideas to get you started:
 - Python scripting  
 - Bash scripting  
 - SQL and database administration basics  
-- Computer hardware assembly and repair  
+- Computer hardware assembly and repair
+  
+## Technologies i worked with
+![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-000000?style=flat&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?style=flat&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white)
 
 ## Technical Focus
 - Linux environments and command-line workflows  
 - Networking concepts and system-level problem solving  
 - Entry-level automation and scripting  
+
 
 

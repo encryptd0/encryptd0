@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - SQL and database administration basics  
 - Computer hardware assembly and repair
   
-## Technologies i worked with
+## Technologies
 ![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-000000?style=flat&logo=gnu-bash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=white)

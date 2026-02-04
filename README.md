@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
----
-
 ## Core Skills
 - Linux system administration fundamentals  
 - Networking fundamentals and subnetting  
@@ -24,12 +22,9 @@ Here are some ideas to get you started:
 - SQL and database administration basics  
 - Computer hardware assembly and repair  
 
----
-
 ## Technical Focus
 - Linux environments and command-line workflows  
 - Networking concepts and system-level problem solving  
 - Entry-level automation and scripting  
 
----
 

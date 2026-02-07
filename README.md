@@ -15,12 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Core Skills
-- Linux system administration fundamentals  
-- Networking fundamentals and subnetting  
+- Linux system administration fundamentals
+- Networking and subnetting  
 - Python scripting  
 - Bash scripting  
 - SQL and database administration basics  
-- Computer hardware assembly and repair
   
 ## Technologies
 ![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white)
@@ -32,7 +31,9 @@ Here are some ideas to get you started:
 ## Technical Focus
 - Linux environments and command-line workflows  
 - Networking concepts and system-level problem solving  
-- Entry-level automation and scripting  
+- Entry-level automation and scripting
+- Cybersecurity
+- Development
 
 
 

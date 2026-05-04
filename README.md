@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=flat&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-000000?style=flat&logo=html&logoColor=white)
 
 ## Technical Focus
 - Linux environments and command-line workflows  

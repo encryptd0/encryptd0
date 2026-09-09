@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="assets/hero.gif" width="700" alt="demo">
+  <img src="assets/github-hero.png" alt="hero">
 </p>

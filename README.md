@@ -1,1 +1,1 @@
-![alt text](assets/github-hero.png)
+![Welcome to my GitHub](assets/github-hero.png)

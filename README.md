@@ -1,3 +1,1 @@
-<p align="center">
-  <img src="assets/github-hero.png" alt="hero">
-</p>
+![alt text](assets/github-hero.png)
